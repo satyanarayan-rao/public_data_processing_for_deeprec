@@ -1,0 +1,4 @@
+# BC1 for unmethylated probes
+# BC2 for methylated probes
+unmethylated TGGG
+methylated CTAG

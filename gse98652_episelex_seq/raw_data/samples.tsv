@@ -1,0 +1,9 @@
+sample	fastq_gz
+atf4_r1	raw_data/SRR5515772.fastq.gz
+atf4_r0	raw_data/SRR5515779.fastq.gz
+cebpb_r1	raw_data/SRR5515773.fastq.gz
+cebpb_r0	raw_data/SRR5515780.fastq.gz
+cebpb_TCCC_r1	raw_data/SRR5515773.fastq.gz
+cebpb_TCCC_r0	raw_data/SRR5515780.fastq.gz
+cebpb_CTAG_r1	raw_data/SRR5515773.fastq.gz
+cebpb_CTAG_r0	raw_data/SRR5515780.fastq.gz
